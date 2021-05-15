@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sunTzuQuotes/static/css/main.dd3aad60.chunk.css",
+    "main.js": "/sunTzuQuotes/static/js/main.1753b7f4.chunk.js",
+    "main.js.map": "/sunTzuQuotes/static/js/main.1753b7f4.chunk.js.map",
+    "runtime-main.js": "/sunTzuQuotes/static/js/runtime-main.5db0bea4.js",
+    "runtime-main.js.map": "/sunTzuQuotes/static/js/runtime-main.5db0bea4.js.map",
+    "static/js/2.891dcf78.chunk.js": "/sunTzuQuotes/static/js/2.891dcf78.chunk.js",
+    "static/js/2.891dcf78.chunk.js.map": "/sunTzuQuotes/static/js/2.891dcf78.chunk.js.map",
+    "index.html": "/sunTzuQuotes/index.html",
+    "precache-manifest.4c167e99dab15a027d5e478f5997d2c5.js": "/sunTzuQuotes/precache-manifest.4c167e99dab15a027d5e478f5997d2c5.js",
+    "service-worker.js": "/sunTzuQuotes/service-worker.js",
+    "static/css/main.dd3aad60.chunk.css.map": "/sunTzuQuotes/static/css/main.dd3aad60.chunk.css.map",
+    "static/js/2.891dcf78.chunk.js.LICENSE.txt": "/sunTzuQuotes/static/js/2.891dcf78.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/sunTzuQuotes/static/media/sunTzuIcon.638d62d6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5db0bea4.js",
+    "static/js/2.891dcf78.chunk.js",
+    "static/css/main.dd3aad60.chunk.css",
+    "static/js/main.1753b7f4.chunk.js"
+  ]
+}
